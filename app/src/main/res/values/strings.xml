@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parnas App</string>
+    <string name="mobile_url">http://185.27.193.111:8082/ckpt-core-web-1.0/platform/api/</string>
+    <string name="et_login_hint">Логин</string>
+    <string name="et_pswd_hint">Пароль</string>
+    <string name="btn_enter">Войти</string>
+    <string name="login_is_empty">Введите логин</string>
+    <string name="password_is_empty">Введите пароль</string>
+    <string name="profile">Профиль</string>
+    <string name="refresh">Обновить</string>
+    <string name="logout">Выйти</string>
+    <string name="invalid_email">Неправильный формат email</string>
+</resources>
